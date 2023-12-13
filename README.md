@@ -1,1 +1,1 @@
-# Training assessments
+# Training assessments and coding challenges
